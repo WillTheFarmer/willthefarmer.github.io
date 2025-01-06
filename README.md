@@ -1,4 +1,3 @@
-### This repository is created to generate awareness of my other repository in Search Engines 
 # Apache Log Parser and Data Normalization Application
 [ApacheLogs2MySQL](https://github.com/willthefarmer/ApacheLogs2MySQL) consists of two Python Modules & one MySQL Schema to automate importing Access & Error files and normalizing data into database designed for reports & data analysis.
 

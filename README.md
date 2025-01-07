@@ -17,7 +17,7 @@ GitHub does not even recognize SQL as a language. I had to add code to `.gitattr
 *.sql linguist-detectable=true
 *.sql linguist-language=sql
 ```
-SQL is a way more important and powerful language in real-world applications than many langauges detected by GitHub.
+SQL is much more important and powerful language in real-world applications than many langauges detected by GitHub.
 <p align="center">
   <img width="250" height="250" src="./assets/MySQL-Apache-Python.png">
 </p>

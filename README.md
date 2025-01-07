@@ -4,12 +4,20 @@
 This application automates consolidation of log files from multiple Servers and unlimited Domains with audit trail & error logging.
 ## Python handles File Processing & MySQL handles Data Processing
 
-The repository is barely found in [GitHub search](https://github.com/search) regardless of Topics added to Repository. Repositories inactive 5 and 10 years with NO Forks and NO Stars come up before mine. Even single file repositories with NO repository Topics are ranked higher than mine. 
+The ApacheLogs2MySQL repository is barely found in [GitHub search](https://github.com/search) regardless of Topics added to Repository.
 
-When repository is finally listed several pages in the Social Preview Image is not displayed. The Image did display 3 weeks ago but no longer does. The search functionality is quite disappointing... None of the Search Engines outside of GitHub have yet to find the ApacheLogs2MySQL repository. Hopefully this website will help plus I learned a bunch more about GitHub this weekend.
+None of the Search Engines outside of GitHub have yet to find the ApacheLogs2MySQL repository.
 
-Maybe it's due to the majority of my repository being developed in SQL langauge. Anyone with insight of how I might remedy my repository's poor search rankings I would appreciate your input on this matter.
-  
+Hopefully this repository and website improves ApacheLogs2MySQL repository visibility.
+
+My only conclusion is the poor search results are due to a large majority of repository codebase is SQL language.
+
+GitHub does not even recognize SQL as a language. I had to add code to `.gitattributes` just to have it appear on repository.
+```
+*.sql linguist-detectable=true
+*.sql linguist-language=sql
+```
+SQL is a way more important and powerful language in real-world applications than many langauges detected by GitHub.
 <p align="center">
   <img width="250" height="250" src="./assets/MySQL-Apache-Python.png">
 </p>

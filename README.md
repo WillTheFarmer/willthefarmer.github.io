@@ -12,7 +12,7 @@ Hopefully this repository and website improves ApacheLogs2MySQL repository visib
 
 My only conclusion is the poor search results are due to a large majority of repository codebase is SQL language.
 
-GitHub does not even recognize SQL as a language. I had to add code to `.gitattributes` just to have it appear on repository.
+GitHub does not even recognize SQL as a language. I had to add code to `.gitattributes` to have it appear on repository.
 ```
 *.sql linguist-detectable=true
 *.sql linguist-language=sql

@@ -10,7 +10,7 @@ None of the Search Engines outside of GitHub have yet to find the ApacheLogs2MyS
 
 Hopefully this repository and website improves ApacheLogs2MySQL repository visibility.
 
-My only conclusion is the poor search results are due to a large majority of repository codebase is SQL language.
+My only conclusion is poor search results are due to a large majority of repository codebase is SQL language.
 
 GitHub does not even recognize SQL as a language. I had to add code to `.gitattributes` to have it appear on repository.
 ```

@@ -10,7 +10,7 @@ No search engines outside of GitHub have yet to find the ApacheLogs2MySQL reposi
 
 My conclusion for the poor search results is one or both of the following:
 
-- Repository name - Renamed from ApacheLogs2MySQL to apache-logs-to-mysql as of 1/9/2025.
+- Repository name - Renamed from ApacheLogs2MySQL to apache-logs-to-mysql on 1/9/2025.
 
 or 
 

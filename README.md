@@ -8,22 +8,24 @@ The ApacheLogs2MySQL repository is barely found in [GitHub search](https://githu
 
 No search engines outside of GitHub have yet to find the ApacheLogs2MySQL repository.
 
-My conclusions for the poor search results are one of both of the following:
+My conclusion for the poor search results is one or both of the following:
 
-- Repository name which is now renamed from ApacheLogs2MySQL to apache-logs-to-mysql as of 1/9/2025.
+- Repository name - Renamed from ApacheLogs2MySQL to apache-logs-to-mysql as of 1/9/2025.
 
 or 
 
-- A large majority of repository codebase is SQL language.
+- SQL - A large majority of repository codebase is SQL language.
 
-GitHub does not even recognize SQL as a language. I had to add code to `.gitattributes` to have it appear on repository. It is surprising to encounter such prejudice against SQL.
+GitHub does not recognize SQL as a language. I had to add code to `.gitattributes` for SQL to appear on repository. 
 ```
 *.sql linguist-detectable=true
 *.sql linguist-language=sql
 ```
-SQL is much more important and powerful language in real-world applications than many langauges detected by GitHub. 
+GiHub's prejudice against SQL is surprising and leads me to qustion if this is reason for poor GitHub search results.
+
+In real-world applications SQL is much more important and powerful language than many langauges detected by GitHub. 
 
 Hopefully creating this repository, website and image :point_down: improves apache-logs-to-mysql repository visibility. 
 <p align="center">
-  <img width="250" height="250" src="./assets/MySQL-Apache-Python.png">
+  <img width="250" height="250" src="/assets/MySQL-Apache-Python.png">
 </p>

@@ -23,7 +23,7 @@ GitHub does not recognize SQL as a language and requires adding code to `.gitatt
 *.sql linguist-detectable=true
 *.sql linguist-language=sql
 ```
-Hopefully rename and creating this repository, website and image :point_down: improves `apache-logs-to-mysql` repository visibility. 
+Hopefully repository rename and creating this repository, website and image :point_down: improves `apache-logs-to-mysql` repository visibility. 
 <p align="center">
   <img width="250" height="250" src="/assets/MySQL-Apache-Python.png">
 </p>

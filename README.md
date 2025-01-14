@@ -1,4 +1,4 @@
-Current purpose of this repository is to promote newly named `apache-logs-to-mysql` repository and in development  `mysql-to-apache-echarts` repository on search engines by implementing Search Engine Optimization (SEO). 
+Current purpose of this repository is to promote newly named `apache-logs-to-mysql` repository and in development `mysql-to-apache-echarts` repository on search engines by implementing Search Engine Optimization (SEO). 
 
 The 4 month old `ApacheLogs2MySQL` repository had barely been found in [GitHub search](https://github.com/search) regardless of Topics added to Repository.
 

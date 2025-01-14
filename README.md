@@ -4,7 +4,12 @@
 This application automates consolidation of log files from multiple Servers and unlimited Domains with audit trail & error logging.
 ## Python handles File Processing & MySQL handles Data Processing
 
-Current purpose of this repository is to promote newly named `apache-logs-to-mysql` repository on search engines by implementing Search Engine Optimization (SEO). 
+# Apache Log Management and Visualization Application
+[MySQL2ApacheECharts](https://github.com/willthefarmer/mysql-to-apache-echarts) consists of Express web application frameworks with Drill Down Capability & Apache ECharts framework for rapid construction of Log Data Visualization for reports & data analysis.
+
+## Express handles Querying & Apache ECharts handles Visualization of MySQL Schema
+
+Current purpose of this repository is to promote newly named `apache-logs-to-mysql` repository and in development  `mysql-to-apache-echarts` repository on search engines by implementing Search Engine Optimization (SEO). 
 
 The 4 month old `ApacheLogs2MySQL` repository had barely been found in [GitHub search](https://github.com/search) regardless of Topics added to Repository.
 
@@ -23,7 +28,8 @@ GitHub does not recognize SQL as a language and requires adding code to `.gitatt
 *.sql linguist-detectable=true
 *.sql linguist-language=sql
 ```
-Hopefully repository rename and creating this repository, website and image :point_down: improves `apache-logs-to-mysql` repository visibility. 
+Hopefully repository rename and creating this repository, website and images :point_down: improves `apache-logs-to-mysql` repository visibility and `mysql-to-apache-echarts` repository awareness. 
 <p align="center">
-  <img width="250" height="250" src="/assets/MySQL-Apache-Python.png">
+  <img width="250" height="250" src="/assets/Apache_Python_MySQL.png">
+  <img width="250" height="250" src="/assets/MySQL_Node_Express_Apache_Echarts.png">
 </p>

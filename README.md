@@ -27,7 +27,7 @@ This application automates consolidation of log files from multiple Servers and 
 [MySQL2ApacheECharts](https://github.com/willthefarmer/mysql-to-apache-echarts) consists of Express.js web application frameworks with Drill Down Capability & Apache ECharts framework for rapid construction of Log Data Visualization for reports & data analysis
 from MySQL Schema ***apache_logs*** created by [ApacheLogs2MySQL](https://github.com/willthefarmer/apache-logs-to-mysql).
 
-## Express handles Querying & Apache ECharts handles Visualization of MySQL Schema
+## Express handles Data Querying & ECharts handles Data Visualization of MySQL Schema
 
 Hopefully repository rename and creating this repository, website and images :point_down: improves `apache-logs-to-mysql` repository visibility and `mysql-to-apache-echarts` repository awareness. 
 <p align="center">

@@ -24,7 +24,7 @@ This application automates consolidation of log files from multiple Servers and 
 ## Python handles File Processing & MySQL handles Data Processing
 
 # Apache Log Management and Visualization Application
-[MySQL2ApacheECharts](https://github.com/willthefarmer/mysql-to-apache-echarts) consists of Express.js web application frameworks with Drill Down Capability & Apache ECharts framework for rapid construction of Log Data Visualization for reports & data analysis
+[MySQL2ApacheECharts](https://github.com/willthefarmer/mysql-to-apache-echarts) is a Web interface that consists of Express.js web application frameworks with Drill Down Capability & Apache ECharts framework for Data Visualization of charts and reports
 from MySQL Schema ***apache_logs*** created by [ApacheLogs2MySQL](https://github.com/willthefarmer/apache-logs-to-mysql).
 
 ## Express handles Data Querying & ECharts handles Data Visualization of MySQL Schema

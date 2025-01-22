@@ -34,7 +34,7 @@ interfaces of MySQL Schema ***apache_logs*** created by [ApacheLogs2MySQL](https
 ## Express handles Data Querying & ECharts handles Data Visualization of MySQL Schema
 
 Hopefully repository rename and creating this repository, website and images :point_down: improves `apache-logs-to-mysql` repository visibility 
-and `mysql-to-apache-echarts` repository awareness. 
+and `mysql-to-apache-echarts` repository awareness. All feedback welcomed! 
 <p align="center">
   <img width="250" height="250" src="/assets/Apache_Python_MySQL.png">
   <img width="250" height="250" src="/assets/MySQL_Node_Express_Apache_Echarts.png">

@@ -19,19 +19,19 @@ GitHub does not recognize SQL as a language and requires adding code to `.gitatt
 *.sql linguist-detectable=true
 *.sql linguist-language=sql
 ```
-# Apache Log Parser and Data Normalization Application
+## Apache Log Parser and Data Normalization Application
 [ApacheLogs2MySQL](https://github.com/willthefarmer/apache-logs-to-mysql) consists of two Python Modules & one MySQL Schema that parse and import 
 Access & Error log files and normalizes data into database designed for reports & data analysis.
 
 This application automates consolidation of log files from multiple Servers and unlimited Domains with audit trail & error logging.
-## Python handles File Processing & MySQL handles Data Processing
+### Python handles File Processing & MySQL handles Data Processing
 
-# Apache Log Management and Visualization Application
+## Apache Log Management and Visualization Application
 [MySQL2ApacheECharts](https://github.com/willthefarmer/mysql-to-apache-echarts) is a Web interface that consists of Express.js web application 
 frameworks with Drill Down Capability & Apache ECharts frameworks for Log Data Visualization in charts, reports & data analysis 
 interfaces of MySQL Schema ***apache_logs*** created by [ApacheLogs2MySQL](https://github.com/willthefarmer/apache-logs-to-mysql).
 
-## Express handles Data Querying & ECharts handles Data Visualization of MySQL Schema
+### Express handles Data Querying & ECharts handles Data Visualization of MySQL Schema
 
 Hopefully repository rename and creating this repository, website and images :point_down: improves `apache-logs-to-mysql` repository visibility 
 and `mysql-to-apache-echarts` repository awareness. All feedback welcomed! 

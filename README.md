@@ -24,7 +24,7 @@ GitHub does not recognize SQL as a language and requires adding code to `.gitatt
 Access & Error log files and normalizes data into database designed for reports & data analysis.
 
 This application automates consolidation of log files from multiple Servers and unlimited Domains with audit trail & error logging.
-### Python handles File Processing & MySQL handles Data Processing
+### Python handles File Processing & MySQL or MariaDB handles Data Processing
 <p align="center">
   <img width="250" height="250" src="/assets/Apache_Python_MySQL.png">
 </p>

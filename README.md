@@ -1,12 +1,12 @@
 Current purpose of this repository is to promote newly named `apache-logs-to-mysql` repository and in development `mysql-to-apache-echarts` 
 repository on search engines by implementing Search Engine Optimization (SEO). 
 
-The 4 month old `ApacheLogs2MySQL` repository had barely been found in [GitHub search](https://github.com/search) regardless of 
+`ApacheLogs2MySQL` repository had barely been found in [GitHub search](https://github.com/search) regardless of 
 Topics added to Repository.
 
-No search engines outside of GitHub had yet to list the `ApacheLogs2MySQL` repository.
+No search engines were listing the `ApacheLogs2MySQL` repository regardless of the Keywords used.
 
-After researching the subject my deduction for poor search results is one or both of the following:
+My deduction for poor search results is one or both of the following:
 
 - Repository name - Renamed from ApacheLogs2MySQL to apache-logs-to-mysql on 1/9/2025.
 
@@ -23,7 +23,7 @@ GitHub does not recognize SQL as a language and requires adding code to `.gitatt
 [ApacheLogs2MySQL](https://github.com/willthefarmer/apache-logs-to-mysql) consists of two Python Modules & one Database Schema that parse and import 
 Access & Error log files and normalizes data into database designed for reports & data analysis.
 
-This application automates consolidation of log files from multiple Servers and unlimited Domains with audit trail & error logging.
+Application automates consolidation of log files from multiple Servers and unlimited Domains with audit trail & error logging.
 ### Python handles File Processing & MySQL or MariaDB handles Data Processing
 <p align="center">
   <img width="250" height="250" src="/assets/Apache_Python_MySQL.png">

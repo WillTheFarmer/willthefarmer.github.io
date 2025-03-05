@@ -1,4 +1,4 @@
-Current purpose of this repository is to promote newly named `apache-logs-to-mysql` repository and in development `mysql-to-apache-echarts` 
+Current purpose of this repository is to promote `apache-logs-to-mysql` repository and in development `mysql-to-apache-echarts` 
 repository on search engines by implementing Search Engine Optimization (SEO). 
 
 `ApacheLogs2MySQL` repository had barely been found in [GitHub search](https://github.com/search) regardless of 
@@ -6,7 +6,7 @@ Topics added to Repository.
 
 No search engines were listing the `ApacheLogs2MySQL` repository regardless of the Keywords used.
 
-My deduction for poor search results is one or both of the following:
+Poor search results possibly due to one or both of the following:
 
 - Repository name - Renamed from ApacheLogs2MySQL to apache-logs-to-mysql on 1/9/2025.
 
@@ -39,4 +39,4 @@ interfaces of Database Schema ***apache_logs*** created by [ApacheLogs2MySQL](ht
   <img width="250" height="250" src="/assets/MySQL_Node_Express_Apache_Echarts.png">
 </p>
 Hopefully repository rename and creating this repository, website and images improves `apache-logs-to-mysql` repository visibility 
-and `mysql-to-apache-echarts` repository awareness. All feedback welcomed! 
+and `mysql-to-apache-echarts` repository awareness. All feedback welcomed!

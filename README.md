@@ -1,4 +1,4 @@
-Current purpose of this repository is to promote `apache-logs-to-mysql` repository and in development `mysql-to-apache-echarts` 
+Current purpose of this repository is to promote `http-logs-to-mysql` repository and in development `mysql-to-apache-echarts` 
 repository on search engines by implementing Search Engine Optimization (SEO). 
 
 `HTTPlogs2MySQL` repository had barely been found in [GitHub search](https://github.com/search) regardless of 
@@ -8,7 +8,7 @@ No search engines were listing the `HTTPlogs2MySQL` repository regardless of the
 
 Poor search results possibly due to one or both of the following:
 
-- Repository name - Renamed from ApacheLogs2MySQL to apache-logs-to-mysql on 1/9/2025.
+- Repository name - Renamed from ApacheLogs2MySQL to http-logs-to-mysql on 1/9/2025.
 - Repository name - Renamed HTTPlogs2MySQL - http-logs-to-mysql on 1/1/2026.
 
 

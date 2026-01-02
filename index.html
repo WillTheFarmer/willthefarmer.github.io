@@ -3,9 +3,9 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Apache HTTP Log Parsing & MySQL Database Normalization</title>
-    <meta name="description" content="Parses and Imports Apache Access & Error logs into MySQL Database designed to normalize data and track log files for unlimited Domains.">
-    <meta name="keywords" content="apache, log parser, MySQL, MariaDB, Python, ECharts, LogFormat, ErrorLogFormat, Data Normalization, http-logs-to-mysql, mysql-to-apache-echarts">
+    <title>HTTP Log Parsing & Database Normalization</title>
+    <meta name="description" content="Parses and Imports HTTP Access & Error logs into MySQL Database designed to normalize data and track log files for unlimited Domains.">
+    <meta name="keywords" content="apache, NGINX, log parser, MySQL, MariaDB, Python, ECharts, LogFormat, ErrorLogFormat, Data Normalization, http-logs-to-mysql, mysql-to-apache-echarts">
     <meta name="robots" content="index, follow">
     <meta name="geo.placename" content="Adirondack Region">
     <meta name="geo.region" content="US-NY">
@@ -41,11 +41,11 @@
           <img src="assets/Nginx_Logo.png" alt="...">
         </div>
         <div class="col-md-9">
-          <h3>Apache Log Parser and Data Normalization Application</h3>
+          <h3>HTTP Log Parser & Data Normalization</h3>
           <h5>Python handles File Processing & MySQL or MariaDB handles Data Processing</h5>
           <p><a href="https://github.com/WillTheFarmer/http-logs-to-mysql">HTTPlogs2MySQL</a>
             consists of two Python Modules & one Database Schema to automate importing Access & Error files and normalizing data into database designed for reports & data analysis.</p>
-          <h6>Quickly convert a folder of Apache log files into a normalized database. Process unlimited files, from multiple domains, from multiple servers with complete Data Lineage. Small codebase & simple setup.</h6>
+          <h6>Quickly convert a folder of HTTP log files into a normalized database. Process unlimited files, from multiple domains, from multiple servers with complete Data Lineage. Small codebase & simple setup.</h6>
           <p>Runs on Windows, Linux and MacOS. Database runs on MySQL and MariaDB.</p>
           <p>4 LogFormats & 2 ErrorLogFormats can be loaded and 6 Stored Procedures can be processed in a single Python `ProcessLogs function` execution.</p>
           <p><b>IP Geolocation data integration</b> using <a href="https://pypi.org/project/geoip2/">MaxMind GeoIP2</a> Python API provides IP country, subdivision, city, system organization, 
@@ -60,11 +60,11 @@
           <img src="assets/MySQL_Node_Express_Apache_Echarts.png" alt="...">
         </div>
         <div class="col-md-9">
-          <h3>Apache Log Management and Visualization Application</h3>
+          <h3>HTTP Log Management and Visualization</h3>
           <h5>Express handles Data Querying & ECharts handles Data Visualization of MySQL or MariaDB Schema</h5>
           <p><a href="https://github.com/WillTheFarmer/mysql-to-apache-echarts">MySQL2ApacheECharts</a>
             consists of Express web application frameworks with Drill Down Capability & Apache ECharts frameworks for Log Data Visualization in charts, reports & data analysis 
-            interfaces of Database Schema created by <a href="https://github.com/WillTheFarmer/http-logs-to-mysql">ApacheLogs2MySQL</a></p>
+            interfaces of Database Schema created by <a href="https://github.com/WillTheFarmer/http-logs-to-mysql">HTTPlogs2MySQL</a></p>
           <p>Application is in development with initial release scheduled for May.</p>
         </div>
       </div>
@@ -72,11 +72,11 @@
     <div class="text-center">
       <h3>Entity Relationship Diagram of Database Schema tables</h3>
       <p>Database Schema currently has 55 Tables, 1040 Columns, 190 Indexes, 85 Views, 
-        8 Stored Procedures and 90 Functions to process Apache Access log in 4 formats & Apache Error log in 2 formats. Database normalization at work!</p>
+        8 Stored Procedures and 90 Functions to process Access log in 4 formats & Error log in 2 formats. Database normalization at work!</p>
       <img src="./assets/entity_relationship_diagram.png" class="img-fluid" alt="...">
     </div>
     <div class="row text-center" id='Benchmarks'>
-      <h3>Benchmark Execution Times & Process Messages for Apache logs - 4 LogFormats, 2 ErrorLogFormats and 6 Stored Procedures processed</h3>
+      <h3>Benchmark Execution Times & Process Messages for HTTP logs - multiple LogFormats, ErrorLogFormats and Stored Procedures processed</h3>
       <div class="col" id='Maria-Benchmark'>
         <a name='Maria-Benchmark'></a>
         <h3>MariaDB version 11.8</h3>

@@ -1,7 +1,7 @@
 Current purpose of this repository is to promote `http-logs-to-mysql` repository and in development `mysql-to-apache-echarts` 
 repository on search engines by implementing Search Engine Optimization (SEO). 
 
-## Apache Log Parser and Data Normalization Application
+## HTTP Log Parser and Data Normalization Application
 [httpLogs2MySQL](https://github.com/willthefarmer/http-logs-to-mysql) consists of two Python Modules & one Database Schema that parse and import 
 Access & Error log files and normalizes data into database designed for reports & data analysis.
 
@@ -11,7 +11,7 @@ Application automates consolidation of log files from multiple Servers and unlim
   <img width="250" height="250" src="/assets/Apache_Python_MySQL.png">
 </p>
 
-## Apache Log Management and Visualization Application
+## HTTP Log Management and Visualization Application
 [MySQL2ApacheECharts](https://github.com/willthefarmer/mysql-to-apache-echarts) is a Web interface that consists of Express.js web application 
 frameworks with Drill Down Capability & Apache ECharts frameworks for Log Data Visualization in charts, reports & data analysis 
 interfaces of Database Schema created by [httpLogs2MySQL](https://github.com/willthefarmer/http-logs-to-mysql).

@@ -1,26 +1,6 @@
 Current purpose of this repository is to promote `http-logs-to-mysql` repository and in development `mysql-to-apache-echarts` 
 repository on search engines by implementing Search Engine Optimization (SEO). 
 
-`httpLogs2MySQL` repository had barely been found in [GitHub search](https://github.com/search) regardless of 
-Topics added to Repository.
-
-No search engines were listing the `httpLogs2MySQL` repository regardless of the Keywords used.
-
-Poor search results possibly due to one or both of the following:
-
-- Repository name - Renamed from ApacheLogs2MySQL to http-logs-to-mysql on 1/9/2025.
-- Repository name - Renamed httpLogs2MySQL - http-logs-to-mysql on 1/1/2026.
-
-
-or 
-
-- SQL - A large majority of repository codebase is SQL language.
-
-GitHub does not recognize SQL as a language and requires adding code to `.gitattributes` for SQL to appear on repository. 
-```
-*.sql linguist-detectable=true
-*.sql linguist-language=sql
-```
 ## Apache Log Parser and Data Normalization Application
 [httpLogs2MySQL](https://github.com/willthefarmer/http-logs-to-mysql) consists of two Python Modules & one Database Schema that parse and import 
 Access & Error log files and normalizes data into database designed for reports & data analysis.

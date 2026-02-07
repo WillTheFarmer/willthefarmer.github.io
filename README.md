@@ -1,8 +1,10 @@
 Current purpose of this repository is to promote `http-logs-to-mysql` repository and in development `mysql-to-apache-echarts` 
 repository on search engines by implementing Search Engine Optimization (SEO). 
 
+Found another purpose - I can commit images of screenshots here to share in Discussions on Both http-logs-to-mysql and mysql-schema-http-logs. which is cool!
+
 ## HTTP Log Parser and Data Normalization Application
-[httpLogs2MySQL](https://github.com/willthefarmer/http-logs-to-mysql) consists of two Python Modules & one Database Schema that parse and import 
+[http-logs-to-mysql](https://github.com/willthefarmer/http-logs-to-mysql) consists of two Python Modules & one Database Schema that parse and import 
 Access & Error log files and normalizes data into database designed for reports & data analysis.
 
 Application automates consolidation of log files from multiple Servers and unlimited Domains with audit trail & error logging.
@@ -12,9 +14,9 @@ Application automates consolidation of log files from multiple Servers and unlim
 </p>
 
 ## HTTP Log Management and Visualization Application
-[MySQL2ApacheECharts](https://github.com/willthefarmer/mysql-to-apache-echarts) is a Web interface that consists of Express.js web application 
+[mysql-to-apache-echarts](https://github.com/willthefarmer/mysql-to-apache-echarts) is a Web interface that consists of Express.js web application 
 frameworks with Drill Down Capability & Apache ECharts frameworks for Log Data Visualization in charts, reports & data analysis 
-interfaces of Database Schema created by [httpLogs2MySQL](https://github.com/willthefarmer/http-logs-to-mysql).
+interfaces of Database Schema created by [http-logs-to-mysql](https://github.com/willthefarmer/http-logs-to-mysql).
 
 ### Express handles Data Querying & ECharts handles Data Visualization of MySQL or MariaDB Schema
 <p align="center">

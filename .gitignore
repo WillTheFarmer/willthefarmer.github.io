@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__
+*.py[cod]
+*$py.class
+
+# Visual Studio Code
+.vscode
+snippets
+*.code-workspace
+
+# Installer logs
+pip-log.txt
+.log
+
+# Environments
+.venv
+.env
+
+# Ignore test code
+/test/
+
+# Ignore dev code
+/dev/
+
+# Ignore build code
+/build/
+
+# Ignore dist code
+/dist/
+
+# Ignore maxmind and dbip databases
+/data/downloads/*

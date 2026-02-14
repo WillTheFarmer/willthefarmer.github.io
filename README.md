@@ -35,5 +35,4 @@ and populated by [log-files-to-mysql](https://github.com/willthefarmer/log-files
 <p align="center">
   <img width="250" height="250" src="/assets/MySQL_Node_Express_Apache_Echarts.png">
 </p>
-Hopefully repository rename and creating this repository, website and images improves `log-files-to-mysql` repository visibility 
-and `mysql-to-apache-echarts` repository awareness. All feedback welcomed!
+All feedback welcomed!

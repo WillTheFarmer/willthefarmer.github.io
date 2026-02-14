@@ -1,7 +1,13 @@
 Current purpose of this repository is to promote `http-logs-to-mysql` repository and in development `mysql-to-apache-echarts` 
 repository on search engines by implementing Search Engine Optimization (SEO). 
 
-Found another purpose is library of screenshots to share in Discussions on Both http-logs-to-mysql and mysql-schema-http-logs.
+To keep Python, SQL and Typescript code repository simple and light shared images and screenshots in this repository. Discussion Links used in repositories:
+
+Python - [http-logs-to-mysql](https://github.com/willthefarmer/http-logs-to-mysql)
+
+SQL & DDL - [mysql-schema-http-logs](https://github.com/willthefarmer/mysql-schema-http-logs)
+
+Typescipt - [mysql-to-apache-echarts](https://github.com/willthefarmer/mysql-to-apache-echarts)
 
 ## HTTP Log Parser and Data Normalization Application
 [http-logs-to-mysql](https://github.com/willthefarmer/http-logs-to-mysql) consists of two Python Modules & one Database Schema that parse and import 

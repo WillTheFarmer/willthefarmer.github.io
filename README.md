@@ -23,10 +23,13 @@ Application automates consolidation of log files from multiple Servers and unlim
 
 ## HTTP Log Management and Visualization Application
 [mysql-to-apache-echarts](https://github.com/willthefarmer/mysql-to-apache-echarts) is a Web interface that consists of Express.js web application 
-frameworks with Drill Down Capability & Apache ECharts frameworks for Log Data Visualization in charts, reports & data analysis 
-interfaces of MySQL or MariaDB databases created by [log-files-to-mysql](https://github.com/willthefarmer/log-files-to-mysql)
-and populated by [log-files-to-mysql](https://github.com/willthefarmer/log-files-to-mysql).
 
+frameworks with Drill Down Capability & Apache ECharts frameworks for Log Data Visualization in charts, reports & data analysis 
+interfaces of MySQL or MariaDB databases.
+
+The MySQL or MariaDB databases created by [mysql-schema-http-logs](https://github.com/willthefarmer/mysql-schema-http-logs)
+and [mysql-schema-system-logs](https://github.com/willthefarmer/mysql-schema-system-logs)
+and populated by [log-files-to-mysql](https://github.com/willthefarmer/log-files-to-mysql) .
 
 ### Express handles Data Querying & ECharts handles Data Visualization of MySQL or MariaDB Schema
 <p align="center">

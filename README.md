@@ -1,9 +1,9 @@
-Current purpose of this repository is to promote `log-files-to-mysql` & `mysql-http-logs` repositories and in development `mysql-to-echarts` 
+Current purpose of this repository is to promote `files-to-mysql` & `mysql-http-logs` repositories and in development `mysql-to-echarts` 
 repository on search engines by implementing Search Engine Optimization (SEO). 
 
 To keep Python, SQL and Typescript code repositories simple and light shared images and screenshots in this repository. Discussion Links used in repositories:
 
-Python - [log-files-to-mysql](https://github.com/willthefarmer/log-files-to-mysql)
+Python - [files-to-mysql](https://github.com/willthefarmer/files-to-mysql)
 
 SQL & DDL - [mysql-http-logs](https://github.com/willthefarmer/mysql-http-logs)
 
@@ -12,7 +12,7 @@ SQL & DDL - [mysql-system-logs](https://github.com/willthefarmer/mysql-system-lo
 Typescript - [mysql-to-echarts](https://github.com/willthefarmer/mysql-to-echarts)
 
 ## HTTP Log Parser and Data Normalization Application
-[log-files-to-mysql](https://github.com/willthefarmer/log-files-to-mysql) consists of two Python Modules & one Database Schema that parse and import 
+[files-to-mysql](https://github.com/willthefarmer/files-to-mysql) consists of two Python Modules & one Database Schema that parse and import 
 Access & Error log files and normalizes data into database designed for reports & data analysis.
 
 Application automates consolidation of log files from multiple Servers and unlimited Domains with audit trail & error logging.
@@ -29,7 +29,7 @@ interfaces of MySQL or MariaDB databases.
 
 The MySQL or MariaDB databases created by [mysql-http-logs](https://github.com/willthefarmer/mysql-http-logs)
 and [mysql-system-logs](https://github.com/willthefarmer/mysql-system-logs)
-and populated by [log-files-to-mysql](https://github.com/willthefarmer/log-files-to-mysql) .
+and populated by [files-to-mysql](https://github.com/willthefarmer/files-to-mysql) .
 
 ### Express handles Data Querying & ECharts handles Data Visualization of MySQL or MariaDB Schema
 <p align="center">

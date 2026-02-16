@@ -1,5 +1,5 @@
-Current purpose of this repository is to promote `files-to-mysql` & `mysql-http-logs` repositories and in development `mysql-to-echarts` 
-repository on search engines by implementing Search Engine Optimization (SEO). 
+Repository is to promote `files-to-mysql` & the growing `database scehma` repositories and in development `mysql-to-echarts` 
+repository on search engines by implementing Search Engine Optimization (SEO).
 
 To keep Python, SQL and Typescript code repositories simple and light shared images and screenshots in this repository. Discussion Links used in repositories:
 

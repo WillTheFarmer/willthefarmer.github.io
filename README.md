@@ -9,6 +9,8 @@ SQL & DDL - [mysql-http-logs](https://github.com/willthefarmer/mysql-http-logs)
 
 SQL & DDL - [mysql-system-logs](https://github.com/willthefarmer/mysql-system-logs)
 
+SQL & DDL - [mysql-file-system](https://github.com/willthefarmer/mysql-file-system)
+
 Typescript - [mysql-to-echarts](https://github.com/willthefarmer/mysql-to-echarts)
 
 ## HTTP Log Parser and Data Normalization Application

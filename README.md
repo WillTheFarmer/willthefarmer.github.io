@@ -9,7 +9,7 @@ SQL & DDL - [mysql-http-logs](https://github.com/willthefarmer/mysql-http-logs)
 
 SQL & DDL - [mysql-system-logs](https://github.com/willthefarmer/mysql-system-logs)
 
-SQL & DDL - [mysql-file-system](https://github.com/willthefarmer/mysql-file-system)
+SQL & DDL - [mysql-file-system](https://github.com/willthefarmer/mysql-system-files)
 
 Typescript - [mysql-to-echarts](https://github.com/willthefarmer/mysql-to-echarts)
 
